@@ -24,6 +24,7 @@
   <ItemGroup>
     <Content Include="app.css" />
     <Content Include="index.html" />
+    <Content Include="pictures\phaser2.png" />
     <Content Include="scripts\phaser.js" />
     <Content Include="scripts\phaser.min.js" />
     <Content Include="web.config" />
